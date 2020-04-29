@@ -2,18 +2,23 @@
   text-align: center;
   padding-left: 10px;
   margin-inline-start: initial;
+  background-color: blanchedalmond;
 }
-.textconntent{
+.textcontent{
   color: red;
   size: 2mm;
+}
+.head{
+  font-family: 'Times New Roman';
+  font-style: inherit;
 }
 .text {
   height: 40vmin;
   pointer-events: none;
 }
 .control{
-  color: grey;
-  text-align: center;
+  color: rgb(0, 0, 0);
+  border: gray;
 }
 .button{
   color: blue;
